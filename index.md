@@ -1,4 +1,3 @@
- </head>
   <body>
     <h1>503</h1>
     <h2>SERVICE UNAVAILABLE</h2>
