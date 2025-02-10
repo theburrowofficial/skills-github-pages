@@ -6,4 +6,3 @@
    <img src="fuckasslogo.png" width="200">
    <p class="hide"><a href="https://qsmpfederation.github.io/ARCHIVE"> :o]</a></p>
   </body>
-</html>
